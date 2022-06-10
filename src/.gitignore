@@ -1,0 +1,15 @@
+../.ipynb_checkpoints/
+	../.settings/
+	../gui/
+	.ipynb_checkpoints/
+	LSH_bf_ed.pickle
+	LSH_fotf_ed.pickle
+	batch_0.npy
+	batch_1.npy
+	batch_2.npy
+	batch_3.npy
+	feature_vectors_database.csv
+	fname_databases.csv
+	kdtree_parallel.py
+	labels.csv
+
